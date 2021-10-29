@@ -12,3 +12,6 @@ Steps to Create the Database and Dashboard:
 6. Uploading the data to a AWS RDS cloud database
 7. Building an interactive dashboard with Metabase
 8. Hosting the dashboard on an AWS EC2 cloud server
+
+
+![alt text](https://github.com/Lalenia/Dashboard-SQL-Metabase/blob/main/project5.png)
